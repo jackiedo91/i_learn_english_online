@@ -1,0 +1,38 @@
+# Rails
+Rails/InverseOf:
+  Enabled: false
+
+# Ruby cops
+Metrics/MethodLength:
+  Enabled: false
+
+Style/Documentation:
+  Enabled: false
+
+Style/NumericLiterals:
+  Enabled: false
+
+Lint/MissingSuper:
+  Enabled: false
+
+Lint/UselessMethodDefinition:
+  Enabled: false
+
+Style/ClassAndModuleChildren:
+  Enabled: false
+
+Style/MissingRespondToMissing:
+  Enabled: false
+
+# Rspec rubocop
+RSpec/EmptyExampleGroup:
+  Enabled: false
+
+RSpec/MultipleMemoizedHelpers:
+  Enabled: false
+
+RSpec/VerifiedDoubles:
+  Enabled: false
+
+RSpec/AnyInstance:
+  Enabled: false
