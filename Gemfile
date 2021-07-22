@@ -31,6 +31,10 @@ gem 'jbuilder', '~> 2.7'
 gem 'bootsnap', '>= 1.4.4', require: false
 gem 'rexml'
 
+## AUTHENTICATION && AUTHORIZATION ##
+gem 'devise'
+gem 'devise-jwt'
+
 ## ENVIRONMENT ##
 gem 'dotenv-rails'
 
