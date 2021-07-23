@@ -1,0 +1,16 @@
+//// FONTS
+@import url("https://fonts.googleapis.com/css2?family=Heebo:wght@100;300;400;500;700;800;900&display=swap");
+
+
+//// LOAD VENDOR FILES
+@import "../vendors/fontawesome-free/css/all.min.css";
+@import "../vendors/OwlCarousel/assets/owl.carousel.css";
+@import "../vendors/OwlCarousel/assets/owl.theme.default.min.css";
+@import "../vendors/bootstrap/css/bootstrap.min.css";
+@import "../vendors/bootstrap-select/css/bootstrap-select.min.css";
+
+
+//// LOAD CUSTOM FILES
+@import "./src/style.scss";
+@import "./src/responsive.scss";
+@import "./src/night_mode.scss";
